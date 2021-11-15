@@ -1,8 +1,10 @@
 
-# Wasaap
+<p align="center">
+  <img src="/shot(1).png" />
+</p>
 
+## Wasaap
 
-![](/shot.png)
 
 
 Wassap is a Python 3.6+ library for wavefront sensing with 
