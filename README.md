@@ -49,7 +49,7 @@ The required libraries can be installed as follwoing:
 ## Usage/Examples
 
 
-A sample of data presentedin our paper is given in the _data_ folder. 
+A sample of data presented in our paper is given in the _data_ folder. 
 The main interface _wasaap.py_ automatically loads the input file and
 produces the figures of the paper. 
 
