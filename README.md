@@ -2,7 +2,7 @@
 # Wasaap
 
 
-![](/intensity_Data_SO%20Beam_1%20bunch_5mmAp2_300nmAl_100ms_SingleShot_WFSz0mm_239.npy_.tif)
+![](/shot.png)
 
 
 Wassap is a Python 3.6+ library for wavefront sensing with 
