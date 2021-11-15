@@ -18,10 +18,10 @@ _Wasaap_ supporst wavefront propagation in the near, intermediare and far field
 
 
 Due to its composable structure, it plays well with 
-others and can be integrated easily. _Wasaap_ outputs the complex wave field that
+other packages and can be integrated easily. _Wasaap_ outputs the complex wave field that
 can be used as the input of any propagation based codes. 
-A input must be as '.npy' formatted. The packages calles all the data 
-in a given folder in a consequence. For a massive run,
+A input must be as '.npy' formatted. The package calls all the data 
+in the data folder continuously. For a massive run,
 the display option can be switched off to speed up the code performance.
 
 
@@ -32,7 +32,7 @@ the display option can be switched off to speed up the code performance.
 
 
 
-We strongly recommend to run the package on a virtua environment
+We strongly recommend to run the package on a virtual environment
 
 
 ```bash
@@ -57,7 +57,7 @@ produces the figures of the paper.
     python3 wasaap.py
 ```
 
-The sample is a hartmangramm measured at soft X-ray wavelength 
+The sample is a hartmangramm measured at a soft X-ray wavelength 
 with a Schwarzschild Objective (SO). The sample intensity is magnified,
 blocked and has an annular shape. 
 ## Authors
