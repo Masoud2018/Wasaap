@@ -1,11 +1,11 @@
 
-<p align="center">
-  <img src="/shot(1).png" />
-</p>
+
 
 ## Wasaap
 
-
+<p align="center">
+  <img src="/shot(1).png" />
+</p>
 
 Wasaap is a Python 3.6+ library for wavefront sensing with 
 Hartmann Wavefront Sensors (HWS). It supports the centroids technique
