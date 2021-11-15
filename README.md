@@ -7,7 +7,7 @@
 
 
 
-Wassap is a Python 3.6+ library for wavefront sensing with 
+Wasaap is a Python 3.6+ library for wavefront sensing with 
 Hartmann Wavefront Sensors (HWS). It supports the centroids technique
 [**B. Keitel, et. al., _J. Synch. Rad (2016)_**] (https://doi.org/10.1107/S1600577515020354) and 
 the Fourier demodulation [**Y. Carmon, _Appl. Phys. Lett. (2004)_**] (https://doi.org/10.1063/1.1759770)
