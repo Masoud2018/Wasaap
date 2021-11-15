@@ -58,7 +58,7 @@ produces the figures of the paper.
 ```
 
 The sample is a hartmangramm measured at soft X-ray wavelength 
-wit a Schwarzschild Objective (SO). The sample intensity is magnified,
+with a Schwarzschild Objective (SO). The sample intensity is magnified,
 blocked and has an annular shape. 
 ## Authors
 
