@@ -305,8 +305,8 @@ def process_file(filepath, aoi_size, reference_image, focal_length, pixel_size, 
         dph_x_wrap = np.angle(Ph_F_I_x_is) 
         dph_y_wrap = np.angle(Ph_F_I_y_is) 
 
-        dph_x = unwrap_phase(dph_x_wrap)/np.pi * 4.5
-        dph_y = unwrap_phase(dph_y_wrap)/np.pi * 4.5
+        dph_x = unwrap_phase(dph_x_wrap)/np.pi * 4.0
+        dph_y = unwrap_phase(dph_y_wrap)/np.pi * 4.0
 
         # REDUCE SLOPES DIMENSION TO (~) NUMBER OF WHOLES 
 
