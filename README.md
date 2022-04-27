@@ -37,14 +37,14 @@ We strongly recommend to run the package on a virtual environment
 
 ```bash
     python3 -m venv /path/to/new/virtual/environment [wfs_env]
-    python3 source wfs_env/bin/activate
+    source wfs_env/bin/activate
 ```
 
 The required libraries can be installed as follwoing:
 
 
 ```bash
-    pip3 install -r requirements.txt
+    pip3 install -r requirement.txt
 ```  
 ## Usage/Examples
 
