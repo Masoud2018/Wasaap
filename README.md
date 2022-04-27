@@ -44,7 +44,9 @@ The required libraries can be installed as follwoing:
 
 
 ```bash
-    pip3 install -r requirement.txt
+    pip3 install --upgrade pip
+    pip3 install -r requirement_gen.txt
+    cat requirement_util.txt | xargs -n 1 pip install
 ```  
 ## Usage/Examples
 
